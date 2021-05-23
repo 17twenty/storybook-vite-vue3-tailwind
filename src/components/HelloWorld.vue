@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import '../index.css';
+import '@/index.css';
 
 export default {
   name: 'HelloWorld',
