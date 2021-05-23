@@ -45,6 +45,4 @@ module.exports = {
 
 ## TODO
 
-1. Setup @alias for paths
-2. Move SB bundler to use Vite ideally
-3. Experiment!
+1. Move SB bundler to use Vite ideally
